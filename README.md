@@ -1,7 +1,6 @@
 ## Hi there, I'm Sara 👋
 
 • Software Engineer   
-<br>
 • Mobile App Developer  
 
 ---
