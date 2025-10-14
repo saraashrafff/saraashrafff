@@ -1,10 +1,13 @@
-## Hi there, I'm Sarah 👋
-•	Software Engineer
+## Hi there, I'm Sara 👋
+
+• Software Engineer  
 <br>
-•	Mobile App Developer
-<br>
-<hr style="height:3px; background-color:#7E57C2; border:none; border-radius:2px;">
+• Mobile App Developer  
+
+---
+
 I'm a Software Engineer and Mobile App Developer passionate about building high-quality, user-friendly applications using Flutter and Dart. I focus on clean architecture, responsive design, and creating seamless user experiences.
+
 
 <!--
 **saraashrafff/saraashrafff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
