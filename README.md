@@ -1,4 +1,4 @@
-## Hi there, I'm Sara Ashraf👋
+## Hi there, I'm Sarah👋
 •	Software Engineer
 <br>
 •	Mobile App Developer
